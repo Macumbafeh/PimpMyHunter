@@ -1,0 +1,6 @@
+## Interface: 20400
+## Title: PimpMyHunter
+## Author: Oldsalt (Smolderforge)
+## Notes: Ranged attack speed with current speed buffs
+## DefaultState: disabled
+PimpMyHunter.lua
